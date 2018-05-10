@@ -69,3 +69,9 @@ class App extends Component {
 
 export default App;
 ```
+
+## GoogleMapのAPIの設定
+- ダッシュボードから＋マークのアイコンを押してプロジェクト名を記入、そして作成
+![PC](img/1.png "1")v
+- 左側のサイドナビの「APIとサービス」をクリック、ダッシュボード
+- ライブラリを選んで、今回は[https://console.cloud.google.com/apis/library/maps-backend.googleapis.com/?filter=category:maps&id=fd73ab50-9916-4cde-a0f6-dc8be0a0d425&project=react-map-203715&folder&organizationId]を利用
